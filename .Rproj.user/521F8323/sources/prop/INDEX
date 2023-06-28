@@ -145,3 +145,7 @@
 ~%2Fapp%2Fzzy%2Fkrmessqlquery%2Fkrmessrc%2FmdlkrmessrcUI%2FR%2Fkrmesprocesstransfer.R="D46DE7B4"
 ~%2Fapp%2Fzzy%2Fkrmessqlquery%2Fkrmessrc%2FmdlkrmessrcUI%2FR%2Fkrmesproductionwarehousin.R="692EB022"
 ~%2Fapp%2Fzzy%2Fkrmessqlquery%2Fkrmessrc%2FmdlkrmessrcUI%2FR%2Fkrmesstock.R="A3B402FC"
+~%2Fapp%2Fzzy%2Fkrmessqlquery%2Fkrmessrcbill%2FmdlkrmessrcbillCom%2Fglobal.R="5CF28754"
+~%2Fapp%2Fzzy%2Fkrmessqlquery%2Fkrmessrcbill%2FmdlkrmessrcbillCom%2FmdlkrmessrcCom_server.R="2E670B6A"
+~%2Fapp%2Fzzy%2Fkrmessqlquery%2Fkrmessrcbill%2FmdlkrmessrcbillCom%2FmdlkrmessrcCom_ui.R="F6B5D43"
+~%2Fapp%2Fzzy%2Fkrmessqlquery%2Fkrmessrcbill%2FmdlkrmessrcbillUI%2FDESCRIPTION="E8757B89"
